@@ -1,0 +1,8 @@
+pandas==2.0.3
+psycopg2-binary==2.9.9
+sqlalchemy==2.0.23
+pandasql==0.7.3
+pyspark==3.5.0
+jupyter==1.0.0
+matplotlib==3.8.2
+seaborn==0.13.0
