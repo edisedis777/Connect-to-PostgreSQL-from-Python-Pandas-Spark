@@ -41,3 +41,9 @@ postgres-python-spark/
 - Using the `pandasql`/`sqldf` package to query Pandas DataFrames using SQL
 - Reading data from PostgreSQL into Spark DataFrames
 - Using Spark SQL to query data
+
+## Contributing
+If you have any suggestions or improvements, please feel free to submit a pull request.
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
