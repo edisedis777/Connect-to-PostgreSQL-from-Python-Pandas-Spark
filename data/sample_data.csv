@@ -1,0 +1,17 @@
+Table 1
+date;product_id;product_name;quantity;unit_price;customer_id;region
+2023-02-01;1;Laptop;3;1200.00;111;North
+2023-02-02;2;Mouse;8;25.50;112;South
+2023-02-03;3;Keyboard;5;45.99;113;East
+2023-02-04;1;Laptop;2;1200.00;114;West
+2023-02-05;4;Monitor;4;250.00;115;North
+2023-02-06;2;Mouse;10;25.50;116;South
+2023-02-07;5;Headphones;7;75.00;117;East
+2023-02-08;3;Keyboard;6;45.99;118;West
+2023-02-09;4;Monitor;3;250.00;119;North
+2023-02-10;5;Headphones;5;75.00;120;South
+2023-02-11;6;Tablet;4;350.00;121;East
+2023-02-12;7;Printer;2;175.00;122;West
+2023-02-13;8;Scanner;1;125.00;123;North
+2023-02-14;9;External HDD;3;85.00;124;South
+2023-02-15;10;USB Drive;15;15.00;125;East
