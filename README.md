@@ -1,4 +1,9 @@
 # Connect to PostgreSQL from Python, Pandas & Spark
+[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
+[![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)](#)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
 
 This repository demonstrates various methods to interact with PostgreSQL databases using Python, with a focus on data analysis tools like Pandas and Apache Spark.
 
